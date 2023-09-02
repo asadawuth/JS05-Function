@@ -7,3 +7,5 @@ function sayHi(age) {
 console.log(sayHi); // *
 console.log(sayHi(10)); // **
 ```
+
+

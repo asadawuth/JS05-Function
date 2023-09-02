@@ -11,4 +11,7 @@ function checkAge(age) {
     return confirm("Did parents allow you?");
   }
 }
+
+
+
 ```
